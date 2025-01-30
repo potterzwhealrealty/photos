@@ -1,0 +1,12 @@
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .outline { stroke: #172554; stroke-width: 2; stroke-miterlimit: 10; fill: none; }
+    </style>
+  </defs>
+  <path class="outline" d="M50.45,60.95c.1-.1.22-.2.34-.28-.01,0-.03.02-.04.02-.18.13-.33.28-.47.45,0,.01-.01.02-.02.03.06-.08.12-.16.19-.23Z"/>
+  <path class="outline" d="M26.46,38.31c-.23.1-.48.15-.74.18h.04c.75,0,1.39-.41,1.75-1.01-.27.36-.62.65-1.04.83Z"/>
+  <path class="outline" d="M97.79,58.82h-46.34c-1.69,0-3.06,1.37-3.06,3.06v36.77"/>
+  <path class="outline" d="M29.47,36.45V2.4"/>
+  <circle class="outline" cx="38.59" cy="50.5" r="6.54"/>
+</svg>
