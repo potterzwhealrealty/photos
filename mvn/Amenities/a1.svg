@@ -10,7 +10,7 @@
         stroke-linecap: round;
       }
       .cls-2 {
-        fill: #E5E7EB; /* Gray-200 for filled elements */
+        fill: #FFFF; /* white for filled elements */
       }
       .cls-3 {
         fill: none;
