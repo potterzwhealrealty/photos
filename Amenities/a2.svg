@@ -3,7 +3,7 @@
   <defs>
     <style>
       .cls-1 {
-        stroke: #rgb(254, 253, 251); /* Bright Yellow */
+        stroke: #rgb(254, 253, 251); 
         stroke-linecap: round;
         stroke-miterlimit: 10;
         stroke-width: 3px;
@@ -11,7 +11,7 @@
         filter: drop-shadow(0px 0px 5px #rgb(254, 253, 251));
       }
       .cls-2 {
-        fill:rgb(254, 253, 251); /* Bright Yellow */
+        fill:rgb(254, 253, 251); 
         stroke-width: 0px;
         filter: drop-shadow(0px 0px 5px #rgb(254, 253, 251));
       }
